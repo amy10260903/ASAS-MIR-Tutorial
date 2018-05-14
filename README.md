@@ -48,8 +48,7 @@ Before doing homework, please install the packages below.
 ### Q2 : Chord Detection (Madmom)
 
 1. Briefly describe the algorithm of chord detection in madmom. [link]()	
-2. How's the chord detection results of ".wav"? Does the result match the original chord? 
-3. Use one of your own music wave file (30 s) and run the chord detection. What's the results? Please give some discussion on the results.
+2. Use one of your own music wave file (30 s) and run the chord detection. What's the results? Please give some discussion on the results. [link](https://github.com/jkang3322/ASAS-MIR-Tutorial/blob/master/Chord_Detection/chord.py)
 
 ### Submission
 
