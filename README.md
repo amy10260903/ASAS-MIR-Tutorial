@@ -32,18 +32,10 @@ Before doing homework, please install the packages below.
 
 ## Homework
 
-### Q1 : Beat Tracking
+### Q1 : Beat Tracking [link](https://github.com/jkang3322/ASAS-MIR-Tutorial/blob/master/beat_tracking/beat_track_hw.ipynb)
 
-1. Beat tracking in Librosa
-	* Generate a different kind of tempo (twice, third, one half, or one third ...) for "Demo.mp3"
-	* Add clicks for output beat times and write it to an audio file. 
-	* Discuss what the code is doing and the corresponding principle at Step 2: Beat tracking
-	* [link](https://github.com/jkang3322/ASAS-MIR-Tutorial/blob/master/beat_tracking/beat_track_librosa.ipynb)
-2. Beat tracking in Madmom
-	* Generate a suitable tempo for "Chopin Nocturne Op. 62 No. 2 in E.mp3" 
-	* Add clicks for output beat times and write it to an audio file. 
-	* Discuss what the code is doing and the corresponding principle at Step 2: Beat tracking
-	* [link](https://github.com/jkang3322/ASAS-MIR-Tutorial/blob/master/beat_tracking/beat_track_madmom.ipynb)
+1. Try to use functions which are from librosa and madmam to implement the beat-tracking with 3 audio files 
+2. Write some comments (what is the principle of each step) to the beat tracking part of your code. 
 
 ### Q2 : Chord Detection (Madmom)
 
@@ -54,6 +46,6 @@ Before doing homework, please install the packages below.
 
 Please put the files (wave files and pdf) into a folder and submit to ilms.
 
-1. Q1 : 2 output wave files and discussion
-2. Q2 : your own music wave file and discussion
+1. Q1 : Three audio files(mentioned in Mission: 1) with clicks and two source codes with some comments (mentioned in Mission: 2), optimizations can also be done.
+2. Q2 : Your own music wave file and discussion
 
