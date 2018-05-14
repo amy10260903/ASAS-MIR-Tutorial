@@ -1,8 +1,8 @@
-# ASAS Tutorial - MIR
+# ASAS Tutorial - Music Information Retreival
 
 The goal of this tutorial is to let you understand the concept of music information retreival (MIR), its toolbox, Librosa and Madmom, and implementation of the functions in toolbox.
 
-Due Date: 2018/05/12
+Due Date: 2018/05/22
 
 ## Overview
 The tutorial is related to 
