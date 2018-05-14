@@ -17,8 +17,8 @@ from madmom.features.chords import DeepChromaChordRecognitionProcessor
 
 from chordGenerate import synthComplex
 
-musicFile = 'YourInputFile.wav'   # Input Music File
-outFile = 'YourOutputFile.wav'                     # Output Music File
+musicFile = 'YourInputFile.wav'             # Input Music File
+outFile = 'YourOutputFile.wav'              # Output Music File
 playFile = False                            # Play output File immediately
 
 chordOn = True                              # Add the chord sound to output
