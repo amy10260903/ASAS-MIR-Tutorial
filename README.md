@@ -44,7 +44,7 @@ Before doing homework, please install the packages below.
 
 ### Submission
 
-Please put the files (wave files and pdf) into a folder and submit to ilms.
+Please put the files (wave files, code, pdf) into a folder and submit to ilms.
 
 1. Q1 : Three audio files(mentioned in Mission: 1) with clicks and two source codes with some comments (mentioned in Mission: 2), optimizations can also be done.
 2. Q2 : Your own music wave file and discussion
