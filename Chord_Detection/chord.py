@@ -51,23 +51,3 @@ if playFile:
     p = pyaudio.PyAudio()
     stream = p.open(format = pyaudio.paFloat32, channels = 1, rate = fs, output = True)
     stream.write(data.astype(np.float32).tostring())
-
-###### PPT ######
-
-# what's chord -> wave file -> different feelings
-# chord detection method in madmom trace
-
-# madmom pip install windows (visual C++)
-
-###### To Do List for Code ######
-
-# Visualization of chord -> wave file segment?
-# Add click to the chord changing time
-# Add handmade chord sound (option)
-
-###### Homework ######
-
-# Describe the algorithm of the functions
-# parameters ?
-# What's the results on different type of music (choose 2 files for 5 genre)
-# Any imrpovement techniques
