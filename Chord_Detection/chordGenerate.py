@@ -66,7 +66,7 @@ def synthComplex(freq=[440, 440, 440], chordResult = [0.,2.,'C:maj'], fname="tes
         for x in range(datasize):       # length of the audio files
             samp = 0
             for k in range(len(freq)):  # produce different frequency of the current time
-                samp = samp + coef[k] * math.sin(2*math.pi*freq[k]*(x/frate))
+                samp = samp + coef[k] * math.sin(2*math.pi*freq[k]*(float(x)/frate))
             sine_list.append(samp)  # three freq
     
     ########## Write wav file ##########
